@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0-day2-k1-static-typing-in-python-robert-bradshaw",
   "title": "R0 DAY2-K1 Static typing in Python? - Robert Bradshaw (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/Gcr__ZPbg3c/sddefault.jpg",
   "duration": 2502,
-  "videos": [
-    {
-      "length": 2502,
-      "url": "https://www.youtube.com/watch?v=Gcr__ZPbg3c",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=Gcr__ZPbg3c",
+    "type": "youtube",
+    "length": 2502
+  },
   "source_url": "https://www.youtube.com/watch?v=Gcr__ZPbg3c",
   "tags": [],
   "speakers": [

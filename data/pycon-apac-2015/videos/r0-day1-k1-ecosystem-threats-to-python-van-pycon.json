@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0-day1-k1-ecosystem-threats-to-python-van-pycon",
   "title": "R0 DAY1-K1 Ecosystem Threats to Python - Van Lindberg  (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/I9tOYv8DcRQ/sddefault.jpg",
   "duration": 2891,
-  "videos": [
-    {
-      "length": 2891,
-      "url": "https://www.youtube.com/watch?v=I9tOYv8DcRQ",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=I9tOYv8DcRQ",
+    "type": "youtube",
+    "length": 2891
+  },
   "source_url": "https://www.youtube.com/watch?v=I9tOYv8DcRQ",
   "tags": [],
   "speakers": [

@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r1-day1-03-zoneidaproc-instrumentation-based-tzung",
   "title": "R1 DAY1-03 ZoneIDAProc: Instrumentation-based Dynamic Accessing - Tzung-Bi Shih (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/2Nwa-I_F-d0/sddefault.jpg",
   "duration": 2191,
-  "videos": [
-    {
-      "length": 2191,
-      "url": "https://www.youtube.com/watch?v=2Nwa-I_F-d0",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=2Nwa-I_F-d0",
+    "type": "youtube",
+    "length": 2191
+  },
   "source_url": "https://www.youtube.com/watch?v=2Nwa-I_F-d0",
   "tags": [],
   "speakers": [

@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r1-day1-01-when-thinking-functionally-with-python",
   "title": "R1 DAY1-01 when thinking functionally with Python - Apua Juan (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/hkr77_1GC2I/sddefault.jpg",
   "duration": 2310,
-  "videos": [
-    {
-      "length": 2310,
-      "url": "https://www.youtube.com/watch?v=hkr77_1GC2I",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=hkr77_1GC2I",
+    "type": "youtube",
+    "length": 2310
+  },
   "source_url": "https://www.youtube.com/watch?v=hkr77_1GC2I",
   "tags": [],
   "speakers": [

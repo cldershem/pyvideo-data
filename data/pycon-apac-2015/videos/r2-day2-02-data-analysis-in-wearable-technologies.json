@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r2-day2-02-data-analysis-in-wearable-technologies",
   "title": "R2 DAY2-02 Data Analysis in Wearable Technologies - Jennifer Ma (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/7B4VJOUDd7c/sddefault.jpg",
   "duration": 2194,
-  "videos": [
-    {
-      "length": 2194,
-      "url": "https://www.youtube.com/watch?v=7B4VJOUDd7c",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=7B4VJOUDd7c",
+    "type": "youtube",
+    "length": 2194
+  },
   "source_url": "https://www.youtube.com/watch?v=7B4VJOUDd7c",
   "tags": [],
   "speakers": [

@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0-day1-04-the-future-of-gui-programming-with-tzu",
   "title": "R0 DAY1-04 The Future of GUI Programming with Python - Tzu-ping Chung (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/DQi8cjrUlkg/sddefault.jpg",
   "duration": 2313,
-  "videos": [
-    {
-      "length": 2313,
-      "url": "https://www.youtube.com/watch?v=DQi8cjrUlkg",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=DQi8cjrUlkg",
+    "type": "youtube",
+    "length": 2313
+  },
   "source_url": "https://www.youtube.com/watch?v=DQi8cjrUlkg",
   "tags": [],
   "speakers": [

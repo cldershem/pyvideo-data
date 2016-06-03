@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r1-day3-02-gong-cheng-shi-mei-gao-su-she-ji-shi-de",
   "title": "R1 DAY3-02 \u5de5\u7a0b\u5e2b\u6c92\u544a\u8a34\u8a2d\u8a08\u5e2b\u7684\u4e8b / Happy Together: Designer and Programmer - TsungWei Hu, Andy Fang",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/2H1me9QkTT0/sddefault.jpg",
   "duration": 2351,
-  "videos": [
-    {
-      "length": 2351,
-      "url": "https://www.youtube.com/watch?v=2H1me9QkTT0",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=2H1me9QkTT0",
+    "type": "youtube",
+    "length": 2351
+  },
   "source_url": "https://www.youtube.com/watch?v=2H1me9QkTT0",
   "tags": [],
   "speakers": [

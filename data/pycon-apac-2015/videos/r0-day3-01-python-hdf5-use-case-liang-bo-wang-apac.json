@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0-day3-01-python-hdf5-use-case-liang-bo-wang-apac",
   "title": "R0 DAY3-01 Python HDF5 Use Case - Liang Bo Wang (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/XLyDMtFKRcM/sddefault.jpg",
   "duration": 2113,
-  "videos": [
-    {
-      "length": 2113,
-      "url": "https://www.youtube.com/watch?v=XLyDMtFKRcM",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=XLyDMtFKRcM",
+    "type": "youtube",
+    "length": 2113
+  },
   "source_url": "https://www.youtube.com/watch?v=XLyDMtFKRcM",
   "tags": [],
   "speakers": [

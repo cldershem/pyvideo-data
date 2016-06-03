@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0-d2-03-easy-contributable-i18n-process-with-apac",
   "title": "R0 D2-03 Easy contributable i18n process with Sphinx - Takayuki Shimizukawa (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/I16ilkfbzUA/sddefault.jpg",
   "duration": 2281,
-  "videos": [
-    {
-      "length": 2281,
-      "url": "https://www.youtube.com/watch?v=I16ilkfbzUA",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=I16ilkfbzUA",
+    "type": "youtube",
+    "length": 2281
+  },
   "source_url": "https://www.youtube.com/watch?v=I16ilkfbzUA",
   "tags": [],
   "speakers": [

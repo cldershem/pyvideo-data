@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0-day03-k2-andy-terrel-pycon-apac-2015",
   "title": "R0 DAY03-K2 Andy Terrel (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/3wfyAz8v8wk/sddefault.jpg",
   "duration": 2994,
-  "videos": [
-    {
-      "length": 2994,
-      "url": "https://www.youtube.com/watch?v=3wfyAz8v8wk",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=3wfyAz8v8wk",
+    "type": "youtube",
+    "length": 2994
+  },
   "source_url": "https://www.youtube.com/watch?v=3wfyAz8v8wk",
   "tags": [],
   "speakers": [

@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r1-d1-06-millions-way-to-avoid-overfitting-when-a",
   "title": "R1-D1-06 Millions way to avoid overfitting when building a portfolio - Chia-Yi Yen (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/bEmHndpIZ6A/sddefault.jpg",
   "duration": 1840,
-  "videos": [
-    {
-      "length": 1840,
-      "url": "https://www.youtube.com/watch?v=bEmHndpIZ6A",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=bEmHndpIZ6A",
+    "type": "youtube",
+    "length": 1840
+  },
   "source_url": "https://www.youtube.com/watch?v=bEmHndpIZ6A",
   "tags": [],
   "speakers": [

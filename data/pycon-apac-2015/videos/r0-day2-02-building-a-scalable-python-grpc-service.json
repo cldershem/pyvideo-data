@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0-day2-02-building-a-scalable-python-grpc-service",
   "title": "R0 DAY2-02 Building a Scalable Python gRPC Service using Kubernetes - Ian Lewis (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/RvUP7vX2P4s/sddefault.jpg",
   "duration": 2439,
-  "videos": [
-    {
-      "length": 2439,
-      "url": "https://www.youtube.com/watch?v=RvUP7vX2P4s",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=RvUP7vX2P4s",
+    "type": "youtube",
+    "length": 2439
+  },
   "source_url": "https://www.youtube.com/watch?v=RvUP7vX2P4s",
   "tags": [],
   "speakers": [

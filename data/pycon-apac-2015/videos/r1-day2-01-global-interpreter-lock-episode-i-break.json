@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r1-day2-01-global-interpreter-lock-episode-i-break",
   "title": "R1 DAY2-01 Global Interpreter Lock: Episode I - Break the Seal - Tzung-Bi Shih (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/j3tVoq3-1bs/sddefault.jpg",
   "duration": 2422,
-  "videos": [
-    {
-      "length": 2422,
-      "url": "https://www.youtube.com/watch?v=j3tVoq3-1bs",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=j3tVoq3-1bs",
+    "type": "youtube",
+    "length": 2422
+  },
   "source_url": "https://www.youtube.com/watch?v=j3tVoq3-1bs",
   "tags": [],
   "speakers": [

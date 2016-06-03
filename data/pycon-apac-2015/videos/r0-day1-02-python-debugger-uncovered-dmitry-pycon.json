@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0-day1-02-python-debugger-uncovered-dmitry-pycon",
   "title": "R0 DAY1-02 Python Debugger Uncovered - Dmitry Trofimov (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/DHf-6gW3-qs/sddefault.jpg",
   "duration": 2118,
-  "videos": [
-    {
-      "length": 2118,
-      "url": "https://www.youtube.com/watch?v=DHf-6gW3-qs",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=DHf-6gW3-qs",
+    "type": "youtube",
+    "length": 2118
+  },
   "source_url": "https://www.youtube.com/watch?v=DHf-6gW3-qs",
   "tags": [],
   "speakers": [

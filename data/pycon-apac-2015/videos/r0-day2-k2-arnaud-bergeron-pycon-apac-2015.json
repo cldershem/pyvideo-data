@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0-day2-k2-arnaud-bergeron-pycon-apac-2015",
   "title": "R0 DAY2-K2 Arnaud Bergeron (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/bmXU9dSYI3g/sddefault.jpg",
   "duration": 2516,
-  "videos": [
-    {
-      "length": 2516,
-      "url": "https://www.youtube.com/watch?v=bmXU9dSYI3g",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=bmXU9dSYI3g",
+    "type": "youtube",
+    "length": 2516
+  },
   "source_url": "https://www.youtube.com/watch?v=bmXU9dSYI3g",
   "tags": [],
   "speakers": [

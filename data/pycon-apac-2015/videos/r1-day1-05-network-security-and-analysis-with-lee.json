@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r1-day1-05-network-security-and-analysis-with-lee",
   "title": "R1 DAY1-05 Network Security and Analysis with Python - Lee Yang Peng (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/7qsixKitI18/sddefault.jpg",
   "duration": 2258,
-  "videos": [
-    {
-      "length": 2258,
-      "url": "https://www.youtube.com/watch?v=7qsixKitI18",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=7qsixKitI18",
+    "type": "youtube",
+    "length": 2258
+  },
   "source_url": "https://www.youtube.com/watch?v=7qsixKitI18",
   "tags": [],
   "speakers": [

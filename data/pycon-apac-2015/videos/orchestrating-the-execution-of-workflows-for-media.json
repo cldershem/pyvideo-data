@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "orchestrating-the-execution-of-workflows-for-media",
   "title": "Orchestrating the execution of workflows for media streaming ... - Shuen-Huei Guan (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/aCDt3RJoV54/sddefault.jpg",
   "duration": 2197,
-  "videos": [
-    {
-      "length": 2197,
-      "url": "https://www.youtube.com/watch?v=aCDt3RJoV54",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=aCDt3RJoV54",
+    "type": "youtube",
+    "length": 2197
+  },
   "source_url": "https://www.youtube.com/watch?v=aCDt3RJoV54",
   "tags": [],
   "speakers": [

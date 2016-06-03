@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r1-day2-05-ceph-jie-shao-gao-guo-dong-pycon-apac",
   "title": "R1 DAY2-05 ceph \u4ecb\u7d39 - \u9ad8 \u570b\u68df (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/sS5tGSdRSJ8/sddefault.jpg",
   "duration": 2206,
-  "videos": [
-    {
-      "length": 2206,
-      "url": "https://www.youtube.com/watch?v=sS5tGSdRSJ8",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=sS5tGSdRSJ8",
+    "type": "youtube",
+    "length": 2206
+  },
   "source_url": "https://www.youtube.com/watch?v=sS5tGSdRSJ8",
   "tags": [],
   "speakers": [

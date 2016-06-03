@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r1-day1-02-kuai-kuai-le-le-cheng-wei-coding-ninja",
   "title": "R1 DAY1-02 \u5feb\u5feb\u6a02\u6a02\u6210\u70ba Coding Ninja (by pytest) - Chun-Yu Tseng (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/pX1_I_sEi8k/sddefault.jpg",
   "duration": 2312,
-  "videos": [
-    {
-      "length": 2312,
-      "url": "https://www.youtube.com/watch?v=pX1_I_sEi8k",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=pX1_I_sEi8k",
+    "type": "youtube",
+    "length": 2312
+  },
   "source_url": "https://www.youtube.com/watch?v=pX1_I_sEi8k",
   "tags": [],
   "speakers": [

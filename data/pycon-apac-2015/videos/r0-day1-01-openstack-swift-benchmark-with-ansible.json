@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0-day1-01-openstack-swift-benchmark-with-ansible",
   "title": "R0 DAY1-01 Openstack Swift Benchmark with Ansible - Charles Hsu (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/FuJ4qvhEW9w/sddefault.jpg",
   "duration": 2600,
-  "videos": [
-    {
-      "length": 2600,
-      "url": "https://www.youtube.com/watch?v=FuJ4qvhEW9w",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=FuJ4qvhEW9w",
+    "type": "youtube",
+    "length": 2600
+  },
   "source_url": "https://www.youtube.com/watch?v=FuJ4qvhEW9w",
   "tags": [],
   "speakers": [

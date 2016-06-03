@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r2-day1-05-tagtoo-task-manager-chien-hsun-chen",
   "title": "R2 DAY1-05 Tagtoo Task Manager - Chien Hsun Chen (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/jv3DPBDEY4k/sddefault.jpg",
   "duration": 2112,
-  "videos": [
-    {
-      "length": 2112,
-      "url": "https://www.youtube.com/watch?v=jv3DPBDEY4k",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=jv3DPBDEY4k",
+    "type": "youtube",
+    "length": 2112
+  },
   "source_url": "https://www.youtube.com/watch?v=jv3DPBDEY4k",
   "tags": [],
   "speakers": [

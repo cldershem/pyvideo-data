@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0-day3-02-play-data-play-ball-summit-suen-pycon",
   "title": "R0 DAY3-02 Play Data, Play Ball! - Summit Suen (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/yJ0Q9Yx_aYA/sddefault.jpg",
   "duration": 2370,
-  "videos": [
-    {
-      "length": 2370,
-      "url": "https://www.youtube.com/watch?v=yJ0Q9Yx_aYA",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=yJ0Q9Yx_aYA",
+    "type": "youtube",
+    "length": 2370
+  },
   "source_url": "https://www.youtube.com/watch?v=yJ0Q9Yx_aYA",
   "tags": [],
   "speakers": [

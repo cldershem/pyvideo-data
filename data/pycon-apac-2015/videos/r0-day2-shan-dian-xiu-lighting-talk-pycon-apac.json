@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0-day2-shan-dian-xiu-lighting-talk-pycon-apac",
   "title": "R0 DAY2 \u9583\u96fb\u79c0 Lighting Talk (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/I5vdPz75pDk/sddefault.jpg",
   "duration": 3798,
-  "videos": [
-    {
-      "length": 3798,
-      "url": "https://www.youtube.com/watch?v=I5vdPz75pDk",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=I5vdPz75pDk",
+    "type": "youtube",
+    "length": 3798
+  },
   "source_url": "https://www.youtube.com/watch?v=I5vdPz75pDk",
   "tags": [],
   "speakers": [],

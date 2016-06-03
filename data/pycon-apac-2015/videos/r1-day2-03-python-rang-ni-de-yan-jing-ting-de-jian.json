@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r1-day2-03-python-rang-ni-de-yan-jing-ting-de-jian",
   "title": "R1 DAY2-03 Python \u8b93\u4f60\u7684\u773c\u775b\u807d\u5f97\u898b - Yuchi Lin (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/8_MTQWRUw1g/sddefault.jpg",
   "duration": 2144,
-  "videos": [
-    {
-      "length": 2144,
-      "url": "https://www.youtube.com/watch?v=8_MTQWRUw1g",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=8_MTQWRUw1g",
+    "type": "youtube",
+    "length": 2144
+  },
   "source_url": "https://www.youtube.com/watch?v=8_MTQWRUw1g",
   "tags": [],
   "speakers": [

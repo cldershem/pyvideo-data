@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0-day1-03-programmatic-debugging-with-gdb-and",
   "title": "R0 DAY1-03 Programmatic Debugging with GDB and Python - Scott Tsai (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/oAYbt2PsKng/sddefault.jpg",
   "duration": 2203,
-  "videos": [
-    {
-      "length": 2203,
-      "url": "https://www.youtube.com/watch?v=oAYbt2PsKng",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=oAYbt2PsKng",
+    "type": "youtube",
+    "length": 2203
+  },
   "source_url": "https://www.youtube.com/watch?v=oAYbt2PsKng",
   "tags": [],
   "speakers": [

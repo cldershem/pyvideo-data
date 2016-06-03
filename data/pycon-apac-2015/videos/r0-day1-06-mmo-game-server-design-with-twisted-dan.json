@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0-day1-06-mmo-game-server-design-with-twisted-dan",
   "title": "R0 DAY1-06 MMO Game Server Design with Twisted Python - Dan Maas (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/_OtljArfvwU/sddefault.jpg",
   "duration": 2290,
-  "videos": [
-    {
-      "length": 2290,
-      "url": "https://www.youtube.com/watch?v=_OtljArfvwU",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=_OtljArfvwU",
+    "type": "youtube",
+    "length": 2290
+  },
   "source_url": "https://www.youtube.com/watch?v=_OtljArfvwU",
   "tags": [],
   "speakers": [

@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0d3k1-crossing-language-barriers-with-julia-scipy",
   "title": "R0D3K1 Crossing Language Barriers with julia SciPy and Ipython - Steven G. Johnson (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/6Se0GwaG1NQ/sddefault.jpg",
   "duration": 2977,
-  "videos": [
-    {
-      "length": 2977,
-      "url": "https://www.youtube.com/watch?v=6Se0GwaG1NQ",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=6Se0GwaG1NQ",
+    "type": "youtube",
+    "length": 2977
+  },
   "source_url": "https://www.youtube.com/watch?v=6Se0GwaG1NQ",
   "tags": [],
   "speakers": [

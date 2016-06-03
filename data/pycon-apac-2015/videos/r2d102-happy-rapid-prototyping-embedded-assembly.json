@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r2d102-happy-rapid-prototyping-embedded-assembly",
   "title": "R2D102 Happy rapid prototyping embedded assembly by Python - Albert Huang (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/0xOW8hxWXRE/sddefault.jpg",
   "duration": 1815,
-  "videos": [
-    {
-      "length": 1815,
-      "url": "https://www.youtube.com/watch?v=0xOW8hxWXRE",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=0xOW8hxWXRE",
+    "type": "youtube",
+    "length": 1815
+  },
   "source_url": "https://www.youtube.com/watch?v=0xOW8hxWXRE",
   "tags": [],
   "speakers": [

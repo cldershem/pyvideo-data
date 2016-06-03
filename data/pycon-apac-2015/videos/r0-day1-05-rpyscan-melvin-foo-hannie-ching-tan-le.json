@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0-day1-05-rpyscan-melvin-foo-hannie-ching-tan-le",
   "title": "R0 DAY1-05 RPyScan - Melvin Foo, Hannie Ching, Tan Le Xuan (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/bJ8OIIP4x4k/sddefault.jpg",
   "duration": 1933,
-  "videos": [
-    {
-      "length": 1933,
-      "url": "https://www.youtube.com/watch?v=bJ8OIIP4x4k",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=bJ8OIIP4x4k",
+    "type": "youtube",
+    "length": 1933
+  },
   "source_url": "https://www.youtube.com/watch?v=bJ8OIIP4x4k",
   "tags": [],
   "speakers": [

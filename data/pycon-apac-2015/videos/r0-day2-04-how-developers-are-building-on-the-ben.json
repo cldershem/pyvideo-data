@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0-day2-04-how-developers-are-building-on-the-ben",
   "title": "R0 DAY2-04 How developers are building applications on the cloud - Ben Cheng (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/0yHGQoam8OI/sddefault.jpg",
   "duration": 892,
-  "videos": [
-    {
-      "length": 892,
-      "url": "https://www.youtube.com/watch?v=0yHGQoam8OI",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=0yHGQoam8OI",
+    "type": "youtube",
+    "length": 892
+  },
   "source_url": "https://www.youtube.com/watch?v=0yHGQoam8OI",
   "tags": [],
   "speakers": [

@@ -17,6 +17,14 @@ def get_videos(path):
 
 
 def order_video_json(video):
+    vid_order = ['url', 'type', 'length']
+
+    vid_videos = []
+    for vid in video['videos']:
+        for key in vid_order:
+            vid_videos.append((key, vid[key]))
+    video['videos'] = OrderedDict(vid_videos)
+
     order = ['id', 'category', 'slug', 'title', 'summary', 'description',
              'quality_notes', 'language', 'copyright_text', 'thumbnail_url',
              'duration', 'videos', 'source_url', 'tags', 'speakers',

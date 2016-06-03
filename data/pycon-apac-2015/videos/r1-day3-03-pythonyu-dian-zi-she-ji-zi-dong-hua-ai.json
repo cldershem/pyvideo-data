@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r1-day3-03-pythonyu-dian-zi-she-ji-zi-dong-hua-ai",
   "title": "R1 DAY3-03 Python\u8207\u96fb\u5b50\u8a2d\u8a08\u81ea\u52d5\u5316\uff1a\u7528\u611b\u8207\u5805\u6301\u5be6\u73fe\u5c08\u696d - Ko-Lung Yuan (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/YLZAMv0Gc5M/sddefault.jpg",
   "duration": 2194,
-  "videos": [
-    {
-      "length": 2194,
-      "url": "https://www.youtube.com/watch?v=YLZAMv0Gc5M",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=YLZAMv0Gc5M",
+    "type": "youtube",
+    "length": 2194
+  },
   "source_url": "https://www.youtube.com/watch?v=YLZAMv0Gc5M",
   "tags": [],
   "speakers": [

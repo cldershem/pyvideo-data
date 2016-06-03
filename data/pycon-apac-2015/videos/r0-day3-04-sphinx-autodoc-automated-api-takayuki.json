@@ -1,4 +1,5 @@
 {
+  "id": 4068,
   "category": "PyCon APAC 2015",
   "slug": "r0-day3-04-sphinx-autodoc-automated-api-takayuki",
   "title": "R0 DAY3-04 Sphinx autodoc: automated API documentation - Takayuki Shimizukawa (PyCon APAC 2015)",
@@ -9,13 +10,11 @@
   "copyright_text": "Standard YouTube Licence",
   "thumbnail_url": "https://i.ytimg.com/vi/RQL04qfsPy8/sddefault.jpg",
   "duration": 2474,
-  "videos": [
-    {
-      "length": 2474,
-      "url": "https://www.youtube.com/watch?v=RQL04qfsPy8",
-      "type": "youtube"
-    }
-  ],
+  "videos": {
+    "url": "https://www.youtube.com/watch?v=RQL04qfsPy8",
+    "type": "youtube",
+    "length": 2474
+  },
   "source_url": "https://www.youtube.com/watch?v=RQL04qfsPy8",
   "tags": [],
   "speakers": [
