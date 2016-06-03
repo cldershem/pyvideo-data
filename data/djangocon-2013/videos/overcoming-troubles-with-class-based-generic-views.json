@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "overcoming-troubles-with-class-based-generic-views",
   "title": "Overcoming Troubles with Class-based Generic Views",
@@ -11,8 +12,8 @@
   "duration": 2757,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=8eEjTwflGlw",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=8eEjTwflGlw",
       "type": "youtube"
     }
   ],

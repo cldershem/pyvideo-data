@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "saturday-morning-keynote-brett-cannon",
   "title": "Saturday Morning Keynote",
@@ -11,8 +12,8 @@
   "duration": 3366,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=z0p71wIU-Qc",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=z0p71wIU-Qc",
       "type": "youtube"
     }
   ],

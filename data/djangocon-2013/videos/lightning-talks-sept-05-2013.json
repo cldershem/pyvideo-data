@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "lightning-talks-sept-05-2013",
   "title": "Lightning Talks, Sept 05, 2013",
@@ -11,8 +12,8 @@
   "duration": 4057,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=dpMnZoWKoS4",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=dpMnZoWKoS4",
       "type": "youtube"
     }
   ],

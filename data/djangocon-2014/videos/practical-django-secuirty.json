@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "practical-django-secuirty",
   "title": "Practical Django Secuirty",
@@ -11,8 +12,8 @@
   "duration": 2903,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=tcylo9qo9gA",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=tcylo9qo9gA",
       "type": "youtube"
     }
   ],

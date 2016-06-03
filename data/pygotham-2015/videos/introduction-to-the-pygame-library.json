@@ -12,17 +12,17 @@
   "duration": 1656,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3769_Introduction_to_the_Pygame_Library.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/7zsrnk1tU0k",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=7zsrnk1tU0k",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/7zsrnk1tU0k",
+  "source_url": "https://www.youtube.com/watch?v=7zsrnk1tU0k",
   "tags": [],
   "speakers": [
     "Piper Thunstrom"

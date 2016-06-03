@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "keynote-diversity-were-not-done-yet-by-lynn-root",
   "title": "Keynote: \"Diversity: We're Not Done Yet\"",
@@ -11,8 +12,8 @@
   "duration": 2340,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=k65nDFSPA2c",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=k65nDFSPA2c",
       "type": "youtube"
     }
   ],

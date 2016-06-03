@@ -12,17 +12,17 @@
   "duration": 1494,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3781_Generic_Programming_for_AgentBased_Modeling.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/wmsANLFZQqE",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=wmsANLFZQqE",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/wmsANLFZQqE",
+  "source_url": "https://www.youtube.com/watch?v=wmsANLFZQqE",
   "tags": [],
   "speakers": [
     "Gene Callahan"

@@ -12,12 +12,12 @@
   "duration": 1630,
   "videos": [
     {
-      "url": "http://youtu.be/sXKfXLqytYY",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=sXKfXLqytYY",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/sXKfXLqytYY",
+  "source_url": "https://www.youtube.com/watch?v=sXKfXLqytYY",
   "tags": [],
   "speakers": [
     "Mikeal Rogers"

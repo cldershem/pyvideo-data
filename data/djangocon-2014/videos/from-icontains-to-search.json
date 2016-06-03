@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "from-icontains-to-search",
   "title": "From __icontains to search",
@@ -11,8 +12,8 @@
   "duration": 1535,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=Dz1hATSSSiQ",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=Dz1hATSSSiQ",
       "type": "youtube"
     }
   ],

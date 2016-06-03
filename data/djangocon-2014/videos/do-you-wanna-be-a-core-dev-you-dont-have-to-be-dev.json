@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "do-you-wanna-be-a-core-dev-you-dont-have-to-be-dev",
   "title": "Do you wanna be a core dev? (You don't have to be core dev...)",
@@ -11,8 +12,8 @@
   "duration": 2915,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=miHGABXNo-s",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=miHGABXNo-s",
       "type": "youtube"
     }
   ],

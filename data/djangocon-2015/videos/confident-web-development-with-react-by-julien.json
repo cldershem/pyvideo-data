@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "confident-web-development-with-react-by-julien",
   "title": "Confident web development with React",
@@ -11,8 +12,8 @@
   "duration": 2506,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=ixnoL8N_dd4",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=ixnoL8N_dd4",
       "type": "youtube"
     }
   ],

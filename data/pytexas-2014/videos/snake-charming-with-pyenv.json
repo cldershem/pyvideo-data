@@ -12,17 +12,17 @@
   "duration": 1500,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3181_Snake_charming_with_pyenv.webm",
-      "type": "webm",
-      "length": null
+      "type": "webm"
     },
     {
-      "url": "http://youtu.be/hx9lElBTXng",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=hx9lElBTXng",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/hx9lElBTXng",
+  "source_url": "https://www.youtube.com/watch?v=hx9lElBTXng",
   "tags": [],
   "speakers": [
     "Douglas Mendiz\u00e1bal"

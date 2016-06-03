@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "beyond-configuration-management-with-saltstack-for",
   "title": "Beyond Configuration Management with SaltStack for event-driven infrastructure",
@@ -11,8 +12,8 @@
   "duration": 1695,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=5lYfZ66Kzdo",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=5lYfZ66Kzdo",
       "type": "youtube"
     }
   ],

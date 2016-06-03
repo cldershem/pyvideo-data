@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "how-to-create-amazing-open-source-modules",
   "title": "How To Create Amazing Open Source Modules",
@@ -11,8 +12,8 @@
   "duration": 2263,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=OuWd80DxSC4",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=OuWd80DxSC4",
       "type": "youtube"
     }
   ],

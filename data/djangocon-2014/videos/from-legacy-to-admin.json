@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "from-legacy-to-admin",
   "title": "From Legacy to Admin",
@@ -11,8 +12,8 @@
   "duration": 1504,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=G_GVBi7oVqA",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=G_GVBi7oVqA",
       "type": "youtube"
     }
   ],

@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "how-to-learn-django-the-wrong-way",
   "title": "How to Learn Django the Wrong Way",
@@ -11,8 +12,8 @@
   "duration": 2360,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=oXrHHurdyFI",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=oXrHHurdyFI",
       "type": "youtube"
     }
   ],

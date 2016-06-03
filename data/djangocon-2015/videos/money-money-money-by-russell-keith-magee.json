@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "money-money-money-by-russell-keith-magee",
   "title": "Money, Money, Money - Writing software, in a rich (wo)man's world",
@@ -11,8 +12,8 @@
   "duration": 1720,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=Jw6wnIopVVg",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=Jw6wnIopVVg",
       "type": "youtube"
     }
   ],

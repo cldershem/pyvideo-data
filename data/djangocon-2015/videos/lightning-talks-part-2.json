@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "lightning-talks-part-2",
   "title": "Lightning Talks - Part 2",
@@ -11,8 +12,8 @@
   "duration": 3401,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=Peo-n4spSRA",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=Peo-n4spSRA",
       "type": "youtube"
     }
   ],

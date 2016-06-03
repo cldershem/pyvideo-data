@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "the-texas-tribune-making-data-and-state-politics",
   "title": "The Texas Tribune: Making Data, and State Politics, Public",
@@ -11,8 +12,8 @@
   "duration": 2492,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=9IsGHophknU",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=9IsGHophknU",
       "type": "youtube"
     }
   ],

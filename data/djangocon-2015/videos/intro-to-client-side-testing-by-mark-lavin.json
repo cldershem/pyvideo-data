@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "intro-to-client-side-testing-by-mark-lavin",
   "title": "Intro to Client-Side Testing",
@@ -11,8 +12,8 @@
   "duration": 1375,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=5AWuT5hEgRA",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=5AWuT5hEgRA",
       "type": "youtube"
     }
   ],

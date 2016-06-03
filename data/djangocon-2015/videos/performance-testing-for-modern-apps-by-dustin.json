@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "performance-testing-for-modern-apps-by-dustin",
   "title": "Performance Testing for Modern Apps",
@@ -11,8 +12,8 @@
   "duration": 2669,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=aGtizJ42Vgo",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=aGtizJ42Vgo",
       "type": "youtube"
     }
   ],

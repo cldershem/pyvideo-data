@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "trial-by-fire-real-world-performance-optimization",
   "title": "Trial by Fire: real world performance optimization",
@@ -11,8 +12,8 @@
   "duration": 2218,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=VHog-74qa9g",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=VHog-74qa9g",
       "type": "youtube"
     }
   ],

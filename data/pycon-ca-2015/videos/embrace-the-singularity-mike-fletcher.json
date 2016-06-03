@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "embrace-the-singularity-mike-fletcher",
   "title": "Embrace the Singularity",
@@ -11,8 +12,8 @@
   "duration": 1952,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=s85jIUaVfeo",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=s85jIUaVfeo",
       "type": "youtube"
     }
   ],

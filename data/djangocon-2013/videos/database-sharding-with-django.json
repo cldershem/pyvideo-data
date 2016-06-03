@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "database-sharding-with-django",
   "title": "Database Sharding with Django",
@@ -11,8 +12,8 @@
   "duration": 2368,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=bAaoSAoACEI",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=bAaoSAoACEI",
       "type": "youtube"
     }
   ],

@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "choose-your-own-django-deployment-adventure",
   "title": "Choose Your Own Django Deployment Adventure",
@@ -11,8 +12,8 @@
   "duration": 1935,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=QrFEKghISEI",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=QrFEKghISEI",
       "type": "youtube"
     }
   ],

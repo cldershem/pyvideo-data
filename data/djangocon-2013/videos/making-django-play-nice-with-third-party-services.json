@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "making-django-play-nice-with-third-party-services",
   "title": "Making Django Play Nice with Third Party Services",
@@ -11,8 +12,8 @@
   "duration": 1954,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=iGP8DQIqxXs",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=iGP8DQIqxXs",
       "type": "youtube"
     }
   ],

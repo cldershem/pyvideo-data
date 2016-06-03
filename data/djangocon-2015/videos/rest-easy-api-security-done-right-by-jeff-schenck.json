@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "rest-easy-api-security-done-right-by-jeff-schenck",
   "title": "REST Easy \u2014 API Security Done Right",
@@ -11,8 +12,8 @@
   "duration": 1316,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=2LWheXmsmHg",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=2LWheXmsmHg",
       "type": "youtube"
     }
   ],

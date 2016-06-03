@@ -12,12 +12,12 @@
   "duration": 1976,
   "videos": [
     {
-      "url": "http://youtu.be/fM5d_2BS6FY",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=fM5d_2BS6FY",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/fM5d_2BS6FY",
+  "source_url": "https://www.youtube.com/watch?v=fM5d_2BS6FY",
   "tags": [],
   "speakers": [
     "Robert Collins"

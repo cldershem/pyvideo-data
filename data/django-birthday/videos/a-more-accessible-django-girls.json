@@ -12,12 +12,12 @@
   "duration": 1542,
   "videos": [
     {
-      "url": "http://youtu.be/xTXt4dRa6Jc",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=xTXt4dRa6Jc",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/xTXt4dRa6Jc",
+  "source_url": "https://www.youtube.com/watch?v=xTXt4dRa6Jc",
   "tags": [],
   "speakers": [
     "Lacey Williams Henschel"

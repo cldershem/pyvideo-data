@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "the-path-to-smoother-database-migrations",
   "title": "The Path to Smoother Database Migrations",
@@ -11,8 +12,8 @@
   "duration": 2310,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=-z6bKWmiAiQ",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=-z6bKWmiAiQ",
       "type": "youtube"
     }
   ],

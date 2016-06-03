@@ -12,17 +12,17 @@
   "duration": 3080,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3795_The_New_Basic_App_Complex_Data_Aggregation_in_Flas.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/gXdgMnDPxuo",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=gXdgMnDPxuo",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/gXdgMnDPxuo",
+  "source_url": "https://www.youtube.com/watch?v=gXdgMnDPxuo",
   "tags": [],
   "speakers": [
     "Jarret Petrillo"

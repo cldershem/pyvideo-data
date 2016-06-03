@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "scaling-your-write-heavy-django-app-a-case-study",
   "title": "Scaling Your Write-heavy Django App: a case study",
@@ -11,8 +12,8 @@
   "duration": 2348,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=A1FalfR5_zk",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=A1FalfR5_zk",
       "type": "youtube"
     }
   ],

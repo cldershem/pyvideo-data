@@ -12,12 +12,12 @@
   "duration": 4460,
   "videos": [
     {
-      "url": "http://youtu.be/_35tn0KrVMo",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=_35tn0KrVMo",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/_35tn0KrVMo",
+  "source_url": "https://www.youtube.com/watch?v=_35tn0KrVMo",
   "tags": [],
   "speakers": [],
   "recorded": "2015-09-06"

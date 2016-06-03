@@ -12,17 +12,17 @@
   "duration": 900,
   "videos": [
     {
+      "length": null,
       "url": "http://s3.us.archive.org/nextdayvideo/DjangoElasticsearchHaystack_to.webm?Signature=VCu0QWgnQkqRJ0k%2BWEzBSpZoqnk%3D&Expires=1423871709&AWSAccessKeyId=FEWGReWX3QbNk0h3",
-      "type": "webm",
-      "length": null
+      "type": "webm"
     },
     {
-      "url": "http://youtu.be/xr1b39XMtBQ",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=xr1b39XMtBQ",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/xr1b39XMtBQ",
+  "source_url": "https://www.youtube.com/watch?v=xr1b39XMtBQ",
   "tags": [],
   "speakers": [
     "Joe Jasinski"

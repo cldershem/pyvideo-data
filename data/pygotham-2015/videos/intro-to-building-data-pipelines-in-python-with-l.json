@@ -12,17 +12,17 @@
   "duration": 1398,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3779_Intro_to_Building_Data_Pipelines_in_Python_with_Lu.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/ymF2R_tY1f8",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=ymF2R_tY1f8",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/ymF2R_tY1f8",
+  "source_url": "https://www.youtube.com/watch?v=ymF2R_tY1f8",
   "tags": [],
   "speakers": [
     "Adrian Cruz"

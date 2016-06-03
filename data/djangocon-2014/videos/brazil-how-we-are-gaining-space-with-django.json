@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "brazil-how-we-are-gaining-space-with-django",
   "title": "Brazil: How we are gaining space with Django",
@@ -11,8 +12,8 @@
   "duration": 936,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=wr_NZr554y4",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=wr_NZr554y4",
       "type": "youtube"
     }
   ],

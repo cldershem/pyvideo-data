@@ -12,17 +12,17 @@
   "duration": 1357,
   "videos": [
     {
+      "length": null,
       "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/depy-2015/3558_Python_in_Computer_Security_Students_Perspective.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/qoNADxPpc2U",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=qoNADxPpc2U",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/qoNADxPpc2U",
+  "source_url": "https://www.youtube.com/watch?v=qoNADxPpc2U",
   "tags": [],
   "speakers": [
     "Li-Wey Lu",

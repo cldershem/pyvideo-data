@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "red-user-blue-user-myuser-auth-user",
   "title": "Red User, Blue User, MyUser, auth.User",
@@ -11,8 +12,8 @@
   "duration": 2828,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=KHg6AoExYjs",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=KHg6AoExYjs",
       "type": "youtube"
     }
   ],

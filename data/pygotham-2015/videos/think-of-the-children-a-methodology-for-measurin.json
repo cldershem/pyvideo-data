@@ -12,17 +12,17 @@
   "duration": 1246,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3762_Think_of_the_Children_A_methodology_for_measuring_.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/xDd0TrcCYiA",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=xDd0TrcCYiA",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/xDd0TrcCYiA",
+  "source_url": "https://www.youtube.com/watch?v=xDd0TrcCYiA",
   "tags": [],
   "speakers": [
     "Hillary Green-Lerman"

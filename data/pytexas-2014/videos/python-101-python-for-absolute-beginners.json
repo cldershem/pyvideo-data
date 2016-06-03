@@ -12,17 +12,17 @@
   "duration": 10800,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3149_Python_101_Python_for_Absolute_Beginners.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/2LOHY-HsYHc",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=2LOHY-HsYHc",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/2LOHY-HsYHc",
+  "source_url": "https://www.youtube.com/watch?v=2LOHY-HsYHc",
   "tags": [],
   "speakers": [
     "Paige Bailey"

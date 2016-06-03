@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "integrating-django-and-wordpress-can-be-simple",
   "title": "Integrating Django and WordPress can be simple.",
@@ -11,8 +12,8 @@
   "duration": 1657,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=agXtM_YJlxg",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=agXtM_YJlxg",
       "type": "youtube"
     }
   ],

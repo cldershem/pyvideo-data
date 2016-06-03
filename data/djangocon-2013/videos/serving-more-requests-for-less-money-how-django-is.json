@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "serving-more-requests-for-less-money-how-django-is",
   "title": "Serving More Requests for Less Money: how Django is saving \"Ain't It Cool News\"",
@@ -11,8 +12,8 @@
   "duration": 2043,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=sUHnHkLpLfw",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=sUHnHkLpLfw",
       "type": "youtube"
     }
   ],

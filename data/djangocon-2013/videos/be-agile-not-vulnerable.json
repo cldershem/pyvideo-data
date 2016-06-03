@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "be-agile-not-vulnerable",
   "title": "Be Agile, Not Vulnerable",
@@ -11,8 +12,8 @@
   "duration": 3435,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=8gCHWe0BFQE",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=8gCHWe0BFQE",
       "type": "youtube"
     }
   ],

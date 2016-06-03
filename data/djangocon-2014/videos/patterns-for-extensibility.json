@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "patterns-for-extensibility",
   "title": "Patterns for Extensibility",
@@ -11,8 +12,8 @@
   "duration": 1127,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=hmd_1pVYdyU",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=hmd_1pVYdyU",
       "type": "youtube"
     }
   ],

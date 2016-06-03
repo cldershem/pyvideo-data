@@ -12,12 +12,12 @@
   "duration": 45,
   "videos": [
     {
-      "url": "http://youtu.be/akAtm7SnzWg",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=akAtm7SnzWg",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/akAtm7SnzWg",
+  "source_url": "https://www.youtube.com/watch?v=akAtm7SnzWg",
   "tags": [],
   "speakers": [
     "Adam Jenkins"

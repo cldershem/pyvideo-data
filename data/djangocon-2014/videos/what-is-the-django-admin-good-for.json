@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "what-is-the-django-admin-good-for",
   "title": "What is the Django admin good for?",
@@ -11,8 +12,8 @@
   "duration": 2450,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=Eroja7Gw4_k",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=Eroja7Gw4_k",
       "type": "youtube"
     }
   ],

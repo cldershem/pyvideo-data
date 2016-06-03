@@ -12,17 +12,17 @@
   "duration": 3000,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3167_Keynote_Developer_Experience_Marketing_matters.webm",
-      "type": "webm",
-      "length": null
+      "type": "webm"
     },
     {
-      "url": "http://youtu.be/-vZ_E1OO_PY",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=-vZ_E1OO_PY",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/-vZ_E1OO_PY",
+  "source_url": "https://www.youtube.com/watch?v=-vZ_E1OO_PY",
   "tags": [],
   "speakers": [
     "Jesse Noller"

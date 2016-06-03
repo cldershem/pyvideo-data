@@ -12,17 +12,17 @@
   "duration": 1255,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3780_Improving_Your_Flask_APIs.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/9KmF9yBzDx8",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=9KmF9yBzDx8",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/9KmF9yBzDx8",
+  "source_url": "https://www.youtube.com/watch?v=9KmF9yBzDx8",
   "tags": [],
   "speakers": [
     "Thomas Peterson"

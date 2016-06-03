@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "deconstructing-django-with-flask-marc-sibson",
   "title": "Deconstructing Django with Flask",
@@ -11,8 +12,8 @@
   "duration": 1311,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=Oz0C_EHcU1o",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=Oz0C_EHcU1o",
       "type": "youtube"
     }
   ],

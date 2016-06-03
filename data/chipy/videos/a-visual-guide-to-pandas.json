@@ -12,17 +12,17 @@
   "duration": 30,
   "videos": [
     {
+      "length": null,
       "url": "http://cf9ce50bbcc7255cb659-8cbed8cf7e3a131cd8f1c3e383d10041.r93.stream.cf2.rackcdn.com/chipy/2551_A_Visual_Guide_To_Pandas.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/9d5-Ti6onew",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=9d5-Ti6onew",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/9d5-Ti6onew",
+  "source_url": "https://www.youtube.com/watch?v=9d5-Ti6onew",
   "tags": [],
   "speakers": [
     "Jason Wirth"

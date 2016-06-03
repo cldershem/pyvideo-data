@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "angularjs-django-a-perfect-match",
   "title": "AngularJS + Django = A Perfect Match",
@@ -11,8 +12,8 @@
   "duration": 1893,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=vWJorwEQWLk",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=vWJorwEQWLk",
       "type": "youtube"
     }
   ],

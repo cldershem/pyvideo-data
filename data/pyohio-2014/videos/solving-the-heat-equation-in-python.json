@@ -12,17 +12,17 @@
   "duration": 7200,
   "videos": [
     {
+      "length": null,
       "url": "http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2851_Solving_the_Heat_Equation_in_Python.webm",
-      "type": "webm",
-      "length": null
+      "type": "webm"
     },
     {
-      "url": "http://youtu.be/IA5-ng6Qvd4",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=IA5-ng6Qvd4",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/IA5-ng6Qvd4",
+  "source_url": "https://www.youtube.com/watch?v=IA5-ng6Qvd4",
   "tags": [
     "talk"
   ],

@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "jane-austen-on-pep8-by-lacey-williams-henschel",
   "title": "Jane Austen on PEP8: Tips from an English Major on Writing Better Code",
@@ -11,8 +12,8 @@
   "duration": 1613,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=55gXwFviOuQ",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=55gXwFviOuQ",
       "type": "youtube"
     }
   ],

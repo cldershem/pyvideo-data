@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "my-bootcamp-brings-all-the-nerds-to-the-yard-from",
   "title": "My Bootcamp Brings all the Nerds to the Yard: Lessons from GeekChic",
@@ -11,8 +12,8 @@
   "duration": 2305,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=7GhuTZLkqDU",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=7GhuTZLkqDU",
       "type": "youtube"
     }
   ],

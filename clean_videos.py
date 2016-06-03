@@ -77,6 +77,7 @@ def fix_url(old_url):
             new_url = old_url
         return new_url
 
+
 if __name__ == "__main__":
     if os.path.exists('./no_source.txt'):
         os.remove('./no_source.txt')

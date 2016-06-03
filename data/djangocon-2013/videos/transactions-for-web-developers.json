@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "transactions-for-web-developers",
   "title": "Transactions for Web Developers",
@@ -11,8 +12,8 @@
   "duration": 4228,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=09tM18_st4I",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=09tM18_st4I",
       "type": "youtube"
     }
   ],

@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "is-your-python-application-secure-frederic-harper",
   "title": "Is your Python application secure?",
@@ -11,8 +12,8 @@
   "duration": 1707,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=qyio9kLwKTw",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=qyio9kLwKTw",
       "type": "youtube"
     }
   ],

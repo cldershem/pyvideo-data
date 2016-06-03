@@ -12,17 +12,17 @@
   "duration": 1408,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3771_What_the_FORTRAN_is_Doing_in_Python.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/SD74lIvddcQ",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=SD74lIvddcQ",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/SD74lIvddcQ",
+  "source_url": "https://www.youtube.com/watch?v=SD74lIvddcQ",
   "tags": [],
   "speakers": [
     "en zyme"

@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "oauth2-and-django-what-you-should-know",
   "title": "OAuth2 and Django, What You Should Know",
@@ -11,8 +12,8 @@
   "duration": 1546,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=nKmvRQVvNdI",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=nKmvRQVvNdI",
       "type": "youtube"
     }
   ],

@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "all-you-need-is-l",
   "title": "All You Need Is L***",
@@ -11,8 +12,8 @@
   "duration": 3225,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=0mACXAmaL1M",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=0mACXAmaL1M",
       "type": "youtube"
     }
   ],

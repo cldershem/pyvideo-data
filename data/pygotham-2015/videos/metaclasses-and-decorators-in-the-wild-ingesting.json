@@ -12,17 +12,17 @@
   "duration": 1169,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3775_Metaclasses_and_Decorators_in_the_Wild_Ingesting_D.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/CqkB9kjBgzo",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=CqkB9kjBgzo",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/CqkB9kjBgzo",
+  "source_url": "https://www.youtube.com/watch?v=CqkB9kjBgzo",
   "tags": [],
   "speakers": [
     "Silas Ray"

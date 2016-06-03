@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "using-python-for-real-time-signal-analysis-farhan",
   "title": "Using Python for real-time signal analysis",
@@ -11,8 +12,8 @@
   "duration": 1587,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=ZknUrH0hboI",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=ZknUrH0hboI",
       "type": "youtube"
     }
   ],

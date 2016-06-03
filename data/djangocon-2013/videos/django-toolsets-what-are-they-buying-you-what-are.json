@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "django-toolsets-what-are-they-buying-you-what-are",
   "title": "Django Toolsets: what are they buying you, what are they costing you?",
@@ -11,8 +12,8 @@
   "duration": 2663,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=5tWnapUszn4",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=5tWnapUszn4",
       "type": "youtube"
     }
   ],

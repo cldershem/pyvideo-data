@@ -12,12 +12,12 @@
   "duration": 1837,
   "videos": [
     {
-      "url": "http://youtu.be/v-y2tJbM0xw",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=v-y2tJbM0xw",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/v-y2tJbM0xw",
+  "source_url": "https://www.youtube.com/watch?v=v-y2tJbM0xw",
   "tags": [],
   "speakers": [
     "Fei Long Wang"

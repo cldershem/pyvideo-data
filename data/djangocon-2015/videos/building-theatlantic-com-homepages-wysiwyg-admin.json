@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "building-theatlantic-com-homepages-wysiwyg-admin",
   "title": "Building theatlantic.com homepage\u2019s WYSIWYG admin with Django and Knockout",
@@ -11,8 +12,8 @@
   "duration": 1081,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=RWLQTCUpyWw",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=RWLQTCUpyWw",
       "type": "youtube"
     }
   ],

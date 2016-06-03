@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "python-for-reliable-delivery-of-cross-platform-avi",
   "title": "Python for reliable delivery of cross platform developer products",
@@ -11,8 +12,8 @@
   "duration": 1670,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=YnCtm3ZDynY",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=YnCtm3ZDynY",
       "type": "youtube"
     }
   ],

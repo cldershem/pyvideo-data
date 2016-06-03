@@ -12,17 +12,17 @@
   "duration": 3458,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3683_Art_and_Science_With_Six_Million_Timelapse_Images_.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/Mfo4hVc71Qw",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=Mfo4hVc71Qw",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/Mfo4hVc71Qw",
+  "source_url": "https://www.youtube.com/watch?v=Mfo4hVc71Qw",
   "tags": [
     "talk"
   ],

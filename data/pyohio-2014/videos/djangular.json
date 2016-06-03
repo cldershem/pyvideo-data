@@ -12,17 +12,17 @@
   "duration": 3600,
   "videos": [
     {
+      "length": null,
       "url": "http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2847_Djangular.webm",
-      "type": "webm",
-      "length": null
+      "type": "webm"
     },
     {
-      "url": "http://youtu.be/GVDjoTt3r8A",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=GVDjoTt3r8A",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/GVDjoTt3r8A",
+  "source_url": "https://www.youtube.com/watch?v=GVDjoTt3r8A",
   "tags": [
     "talk"
   ],

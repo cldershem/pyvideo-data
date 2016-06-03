@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "what-you-can-do-with-python-an-rdbms-svn-and-a-in",
   "title": "What you can do with Python, an RDBMS, SVN, and a little scripting in a data center",
@@ -11,8 +12,8 @@
   "duration": 1719,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=lFiGTH3jTSY",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=lFiGTH3jTSY",
       "type": "youtube"
     }
   ],

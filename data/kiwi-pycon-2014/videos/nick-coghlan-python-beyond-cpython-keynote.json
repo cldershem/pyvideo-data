@@ -12,12 +12,12 @@
   "duration": 2700,
   "videos": [
     {
-      "url": "http://youtu.be/H2ybMrFNku0",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=H2ybMrFNku0",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/H2ybMrFNku0",
+  "source_url": "https://www.youtube.com/watch?v=H2ybMrFNku0",
   "tags": [],
   "speakers": [
     "Nick Coghlan"

@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "class-based-views-past-present-and-future",
   "title": "Class-based Views: Past, Present and Future",
@@ -11,8 +12,8 @@
   "duration": 2376,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=8_x6qLfZjjs",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=8_x6qLfZjjs",
       "type": "youtube"
     }
   ],

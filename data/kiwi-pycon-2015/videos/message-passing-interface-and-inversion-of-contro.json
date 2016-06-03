@@ -12,12 +12,12 @@
   "duration": 1516,
   "videos": [
     {
-      "url": "http://youtu.be/h4gYrAuKgqM",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=h4gYrAuKgqM",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/h4gYrAuKgqM",
+  "source_url": "https://www.youtube.com/watch?v=h4gYrAuKgqM",
   "tags": [],
   "speakers": [
     "Rand Huso"

@@ -12,12 +12,12 @@
   "duration": 2164,
   "videos": [
     {
-      "url": "http://youtu.be/zgCCtof4kkY",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=zgCCtof4kkY",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/zgCCtof4kkY",
+  "source_url": "https://www.youtube.com/watch?v=zgCCtof4kkY",
   "tags": [],
   "speakers": [
     "Brian Thorne"

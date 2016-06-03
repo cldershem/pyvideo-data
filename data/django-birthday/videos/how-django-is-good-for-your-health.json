@@ -12,12 +12,12 @@
   "duration": 904,
   "videos": [
     {
-      "url": "http://youtu.be/ldM2GUGL5sU",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=ldM2GUGL5sU",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/ldM2GUGL5sU",
+  "source_url": "https://www.youtube.com/watch?v=ldM2GUGL5sU",
   "tags": [],
   "speakers": [
     "Craig Bruce"

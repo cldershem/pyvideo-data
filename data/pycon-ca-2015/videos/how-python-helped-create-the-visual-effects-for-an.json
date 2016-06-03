@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "how-python-helped-create-the-visual-effects-for-an",
   "title": "How Python helped create the visual effects for an Emmy nominated TV show",
@@ -11,8 +12,8 @@
   "duration": 1875,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=wXZ041KzcKg",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=wXZ041KzcKg",
       "type": "youtube"
     }
   ],

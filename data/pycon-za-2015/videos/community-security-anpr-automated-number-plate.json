@@ -12,12 +12,12 @@
   "duration": 3552,
   "videos": [
     {
-      "url": "http://youtu.be/CTbMUrJ9ztQ",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=CTbMUrJ9ztQ",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/CTbMUrJ9ztQ",
+  "source_url": "https://www.youtube.com/watch?v=CTbMUrJ9ztQ",
   "tags": [
     "Room 211"
   ],

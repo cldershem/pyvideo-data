@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "keynote-by-rikki-endsley",
   "title": "Keynote",
@@ -11,8 +12,8 @@
   "duration": 1188,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=XDLQYb2IYls",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=XDLQYb2IYls",
       "type": "youtube"
     }
   ],

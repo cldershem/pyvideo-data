@@ -12,17 +12,17 @@
   "duration": 6867,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3709_Network_Automation_using_Ansible_and_Python.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/VYEVjKvMKqU",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=VYEVjKvMKqU",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/VYEVjKvMKqU",
+  "source_url": "https://www.youtube.com/watch?v=VYEVjKvMKqU",
   "tags": [
     "talk"
   ],

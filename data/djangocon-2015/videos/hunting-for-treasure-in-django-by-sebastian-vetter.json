@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "hunting-for-treasure-in-django-by-sebastian-vetter",
   "title": "Hunting for Treasure in Django",
@@ -11,8 +12,8 @@
   "duration": 1494,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=vglyQXyhc8o",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=vglyQXyhc8o",
       "type": "youtube"
     }
   ],

@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "getting-started-with-salt",
   "title": "Getting Started With Salt",
@@ -11,8 +12,8 @@
   "duration": 3094,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=xTQowIcX9BQ",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=xTQowIcX9BQ",
       "type": "youtube"
     }
   ],

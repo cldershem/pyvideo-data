@@ -12,17 +12,17 @@
   "duration": 2838,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3784_Modeling_an_Arithmetic_Logic_Unit_in_Python.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/wPkNiXB4VpA",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=wPkNiXB4VpA",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/wPkNiXB4VpA",
+  "source_url": "https://www.youtube.com/watch?v=wPkNiXB4VpA",
   "tags": [],
   "speakers": [
     "Joseph Mosby"

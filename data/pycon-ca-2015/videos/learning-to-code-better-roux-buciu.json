@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "learning-to-code-better-roux-buciu",
   "title": "Learning to code... better!",
@@ -11,8 +12,8 @@
   "duration": 1947,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=jt93AfS9GYI",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=jt93AfS9GYI",
       "type": "youtube"
     }
   ],

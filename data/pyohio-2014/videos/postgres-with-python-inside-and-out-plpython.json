@@ -12,17 +12,17 @@
   "duration": 3600,
   "videos": [
     {
+      "length": null,
       "url": "http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2848_Postgres_with_Python_inside_and_out_PLPython.webm",
-      "type": "webm",
-      "length": null
+      "type": "webm"
     },
     {
-      "url": "http://youtu.be/Is_dgxJVHNs",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=Is_dgxJVHNs",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/Is_dgxJVHNs",
+  "source_url": "https://www.youtube.com/watch?v=Is_dgxJVHNs",
   "tags": [
     "talk"
   ],

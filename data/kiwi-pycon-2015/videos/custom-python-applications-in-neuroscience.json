@@ -12,12 +12,12 @@
   "duration": 1284,
   "videos": [
     {
-      "url": "http://youtu.be/F50H3Co7Jng",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=F50H3Co7Jng",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/F50H3Co7Jng",
+  "source_url": "https://www.youtube.com/watch?v=F50H3Co7Jng",
   "tags": [],
   "speakers": [
     "Gagan  Sharma",

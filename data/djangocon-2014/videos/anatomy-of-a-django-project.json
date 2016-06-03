@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "anatomy-of-a-django-project",
   "title": "Anatomy of a Django Project",
@@ -11,8 +12,8 @@
   "duration": 1290,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=ajEDo1semzs",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=ajEDo1semzs",
       "type": "youtube"
     }
   ],

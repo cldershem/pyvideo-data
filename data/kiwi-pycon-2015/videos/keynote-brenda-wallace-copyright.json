@@ -12,12 +12,12 @@
   "duration": 3281,
   "videos": [
     {
-      "url": "http://youtu.be/crWXUgWKMrI",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=crWXUgWKMrI",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/crWXUgWKMrI",
+  "source_url": "https://www.youtube.com/watch?v=crWXUgWKMrI",
   "tags": [],
   "speakers": [
     "Brenda Wallace"

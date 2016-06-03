@@ -12,12 +12,12 @@
   "duration": 45,
   "videos": [
     {
-      "url": "http://youtu.be/MCmNGmFh6wE",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=MCmNGmFh6wE",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/MCmNGmFh6wE",
+  "source_url": "https://www.youtube.com/watch?v=MCmNGmFh6wE",
   "tags": [
     "RabbitMQ Celery"
   ],

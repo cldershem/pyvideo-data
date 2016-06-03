@@ -12,12 +12,12 @@
   "duration": 668,
   "videos": [
     {
-      "url": "http://youtu.be/lk1F6CAk8f0",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=lk1F6CAk8f0",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/lk1F6CAk8f0",
+  "source_url": "https://www.youtube.com/watch?v=lk1F6CAk8f0",
   "tags": [
     "Room 215"
   ],

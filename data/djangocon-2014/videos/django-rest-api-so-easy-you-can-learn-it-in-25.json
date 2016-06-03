@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "django-rest-api-so-easy-you-can-learn-it-in-25",
   "title": "Django REST API - So easy you can learn it in 25 minutes",
@@ -11,8 +12,8 @@
   "duration": 1408,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=cqP758k1BaQ",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=cqP758k1BaQ",
       "type": "youtube"
     }
   ],

@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "dubious-database-design-by-andrew-godwin",
   "title": "Dubious Database Design",
@@ -11,8 +12,8 @@
   "duration": 2282,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=l712XON7R2s",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=l712XON7R2s",
       "type": "youtube"
     }
   ],

@@ -12,17 +12,17 @@
   "duration": 1425,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3715_Introduction_to_PySchoolnet.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/SBJR1WCBC0c",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=SBJR1WCBC0c",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/SBJR1WCBC0c",
+  "source_url": "https://www.youtube.com/watch?v=SBJR1WCBC0c",
   "tags": [
     "talk"
   ],

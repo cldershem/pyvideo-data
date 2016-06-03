@@ -12,17 +12,17 @@
   "duration": 3000,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3204_Visualizing_Twitter_Data_with_Blaze_and_Bokeh.webm",
-      "type": "webm",
-      "length": null
+      "type": "webm"
     },
     {
-      "url": "http://youtu.be/YpJJYFS5tYk",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=YpJJYFS5tYk",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/YpJJYFS5tYk",
+  "source_url": "https://www.youtube.com/watch?v=YpJJYFS5tYk",
   "tags": [],
   "speakers": [
     "Christine Doig"

@@ -12,17 +12,17 @@
   "duration": 949,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3792_Name_Things_Once_2.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/1__lNTlj1_w",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=1__lNTlj1_w",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/1__lNTlj1_w",
+  "source_url": "https://www.youtube.com/watch?v=1__lNTlj1_w",
   "tags": [],
   "speakers": [
     "Jack Diederich"

@@ -12,12 +12,12 @@
   "duration": 2041,
   "videos": [
     {
-      "url": "http://youtu.be/7b4z7y6Lohw",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=7b4z7y6Lohw",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/7b4z7y6Lohw",
+  "source_url": "https://www.youtube.com/watch?v=7b4z7y6Lohw",
   "tags": [],
   "speakers": [
     "Cory Benfield"

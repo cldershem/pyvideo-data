@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "ten-minutes-to-replication",
   "title": "Ten Minutes To Replication",
@@ -11,8 +12,8 @@
   "duration": 2572,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=BD7i9QImqic",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=BD7i9QImqic",
       "type": "youtube"
     }
   ],

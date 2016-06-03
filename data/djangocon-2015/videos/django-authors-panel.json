@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "django-authors-panel",
   "title": "Django Authors Panel",
@@ -11,8 +12,8 @@
   "duration": 2619,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=Ulv_ygVuhwI",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=Ulv_ygVuhwI",
       "type": "youtube"
     }
   ],

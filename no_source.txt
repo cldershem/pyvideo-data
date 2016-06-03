@@ -1,0 +1,5 @@
+Boston Python Meetup: Testing: Where do I start?
+Boston Python Meetup: How to test the hard stuff
+PyConAU 2010: Virtualisation Used in Development
+[Poster] ApsimRegions: A Gridded Modeling Framework for the APSIM Crop Model
+ChiPy: Chicago Python User Group Jan. '08 Meeting

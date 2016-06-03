@@ -12,17 +12,17 @@
   "duration": 1274,
   "videos": [
     {
+      "length": null,
       "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chicago-djangonauts/3381_Formsets_Concurrent_Edits_and_Uncaught_Exceptions.webm",
-      "type": "webm",
-      "length": null
+      "type": "webm"
     },
     {
-      "url": "http://youtu.be/YrSmrnp8icM",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=YrSmrnp8icM",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/YrSmrnp8icM",
+  "source_url": "https://www.youtube.com/watch?v=YrSmrnp8icM",
   "tags": [],
   "speakers": [
     "Brad Martsberger"

@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "e-commerce-with-django-at-scale-by-nate-pinchot",
   "title": "E-Commerce with Django at Scale: Effective Performance Lessons Learned",
@@ -11,8 +12,8 @@
   "duration": 1213,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=QZLHULo7fzo",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=QZLHULo7fzo",
       "type": "youtube"
     }
   ],

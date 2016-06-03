@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "http-for-great-good",
   "title": "HTTP for Great Good",
@@ -11,8 +12,8 @@
   "duration": 2477,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=HAjOQ09I1UY",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=HAjOQ09I1UY",
       "type": "youtube"
     }
   ],

@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "upgrading-django-to-1-7",
   "title": "Upgrading Django (to 1.7)",
@@ -11,8 +12,8 @@
   "duration": 2716,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=bjIXZ-XX2SM",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=bjIXZ-XX2SM",
       "type": "youtube"
     }
   ],

@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "epic-nhl-goal-celebration-hack-with-a-hue-light",
   "title": "Epic NHL goal celebration hack with a hue light show and real-time machine learning",
@@ -11,8 +12,8 @@
   "duration": 1808,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=8Ayacv1SWx8",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=8Ayacv1SWx8",
       "type": "youtube"
     }
   ],

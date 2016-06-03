@@ -12,12 +12,12 @@
   "duration": 2168,
   "videos": [
     {
-      "url": "http://youtu.be/wqii_iX0RTs",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=wqii_iX0RTs",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/wqii_iX0RTs",
+  "source_url": "https://www.youtube.com/watch?v=wqii_iX0RTs",
   "tags": [],
   "speakers": [
     "Simon Willison"

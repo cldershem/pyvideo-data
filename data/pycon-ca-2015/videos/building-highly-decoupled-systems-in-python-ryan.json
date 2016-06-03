@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "building-highly-decoupled-systems-in-python-ryan",
   "title": "Building highly decoupled systems in Python",
@@ -11,8 +12,8 @@
   "duration": 1771,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=3MEsh44XZDo",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=3MEsh44XZDo",
       "type": "youtube"
     }
   ],

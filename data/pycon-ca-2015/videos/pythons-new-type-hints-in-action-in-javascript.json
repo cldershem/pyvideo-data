@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "pythons-new-type-hints-in-action-in-javascript",
   "title": "Python's new type hints in action... in JavaScript",
@@ -11,8 +12,8 @@
   "duration": 1798,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=rj9f_e17Idk",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=rj9f_e17Idk",
       "type": "youtube"
     }
   ],

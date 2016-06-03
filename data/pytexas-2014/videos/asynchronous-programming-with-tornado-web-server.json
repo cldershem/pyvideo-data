@@ -12,17 +12,17 @@
   "duration": 1500,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3192_Asynchronous_Programming_with_Tornado_Web_Server.webm",
-      "type": "webm",
-      "length": null
+      "type": "webm"
     },
     {
-      "url": "http://youtu.be/r9sy7tcDlzU",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=r9sy7tcDlzU",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/r9sy7tcDlzU",
+  "source_url": "https://www.youtube.com/watch?v=r9sy7tcDlzU",
   "tags": [],
   "speakers": [
     "Kacie Houser"

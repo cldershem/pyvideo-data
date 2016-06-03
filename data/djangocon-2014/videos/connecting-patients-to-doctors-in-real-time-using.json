@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "connecting-patients-to-doctors-in-real-time-using",
   "title": "Connecting Patients to Doctors in Real-Time Using Django",
@@ -11,8 +12,8 @@
   "duration": 1277,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=txlURM0n41Q",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=txlURM0n41Q",
       "type": "youtube"
     }
   ],

@@ -12,12 +12,12 @@
   "duration": 1566,
   "videos": [
     {
-      "url": "http://youtu.be/OjCz8yTloUI",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=OjCz8yTloUI",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/OjCz8yTloUI",
+  "source_url": "https://www.youtube.com/watch?v=OjCz8yTloUI",
   "tags": [],
   "speakers": [
     "Ola Sitarska"

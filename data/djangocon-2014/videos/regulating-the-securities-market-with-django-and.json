@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "regulating-the-securities-market-with-django-and",
   "title": "REGULATING THE SECURITIES MARKET WITH DJANGO AND PANDAS",
@@ -11,8 +12,8 @@
   "duration": 1497,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=6AOGob_uxM8",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=6AOGob_uxM8",
       "type": "youtube"
     }
   ],

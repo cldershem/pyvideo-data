@@ -12,12 +12,12 @@
   "duration": null,
   "videos": [
     {
-      "url": "http://youtu.be/dAgShwIx72c",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=dAgShwIx72c",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/dAgShwIx72c",
+  "source_url": "https://www.youtube.com/watch?v=dAgShwIx72c",
   "tags": [
     "mathematics",
     "sympy"

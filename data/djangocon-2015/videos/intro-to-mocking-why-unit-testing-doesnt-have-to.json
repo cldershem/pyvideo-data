@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "intro-to-mocking-why-unit-testing-doesnt-have-to",
   "title": "Intro to Mocking: Why Unit Testing Doesn't Have To Be So Hard",
@@ -11,8 +12,8 @@
   "duration": 2313,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=DqwtbRExNa0",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=DqwtbRExNa0",
       "type": "youtube"
     }
   ],

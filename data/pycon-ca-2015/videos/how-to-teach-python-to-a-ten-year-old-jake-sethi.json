@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "how-to-teach-python-to-a-ten-year-old-jake-sethi",
   "title": "How to teach Python to a ten year old",
@@ -11,8 +12,8 @@
   "duration": 471,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=EVtFhap5U3I",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=EVtFhap5U3I",
       "type": "youtube"
     }
   ],

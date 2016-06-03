@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "coding-like-a-girl-by-gabriela-davila",
   "title": "Coding Like a Girl",
@@ -11,8 +12,8 @@
   "duration": 3150,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=cPCm8zpchQ4",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=cPCm8zpchQ4",
       "type": "youtube"
     }
   ],

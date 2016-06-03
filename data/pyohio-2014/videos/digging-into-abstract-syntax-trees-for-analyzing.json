@@ -12,17 +12,17 @@
   "duration": 3600,
   "videos": [
     {
+      "length": null,
       "url": "http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2838_Digging_into_Abstract_Syntax_Trees_for_analyzing_a.webm",
-      "type": "webm",
-      "length": null
+      "type": "webm"
     },
     {
-      "url": "http://youtu.be/wyJZBwY6EEo",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=wyJZBwY6EEo",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/wyJZBwY6EEo",
+  "source_url": "https://www.youtube.com/watch?v=wyJZBwY6EEo",
   "tags": [
     "talk"
   ],

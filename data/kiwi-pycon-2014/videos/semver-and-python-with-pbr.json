@@ -12,12 +12,12 @@
   "duration": 1800,
   "videos": [
     {
-      "url": "http://youtu.be/6hjg-Uia5AU",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=6hjg-Uia5AU",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/6hjg-Uia5AU",
+  "source_url": "https://www.youtube.com/watch?v=6hjg-Uia5AU",
   "tags": [
     "talk"
   ],

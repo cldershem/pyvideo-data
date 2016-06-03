@@ -12,17 +12,17 @@
   "duration": 2845,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3716_You_Gotta_Want_It_Building_Up_Women_in_Computer_Sc.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/H9GpEOUojeQ",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=H9GpEOUojeQ",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/H9GpEOUojeQ",
+  "source_url": "https://www.youtube.com/watch?v=H9GpEOUojeQ",
   "tags": [
     "talk"
   ],

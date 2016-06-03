@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "easy-app-metrics-by-frank-wiles",
   "title": "Easy App Metrics",
@@ -11,8 +12,8 @@
   "duration": 1612,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=UCl88qqZa1U",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=UCl88qqZa1U",
       "type": "youtube"
     }
   ],

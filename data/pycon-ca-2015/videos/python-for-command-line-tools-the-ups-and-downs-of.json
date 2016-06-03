@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "python-for-command-line-tools-the-ups-and-downs-of",
   "title": "Python for command line tools: the ups and downs of Mercurial's language choice",
@@ -11,8 +12,8 @@
   "duration": 1853,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=SlG1R6GRnNo",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=SlG1R6GRnNo",
       "type": "youtube"
     }
   ],

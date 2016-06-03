@@ -12,22 +12,22 @@
   "duration": 2400,
   "videos": [
     {
+      "length": null,
       "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/3379_From_Code_to_Coffee_Table_with_Blender.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
+      "length": null,
       "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/3379_From_Code_to_Coffee_Table_with_Blender.webm",
-      "type": "webm",
-      "length": null
+      "type": "webm"
     },
     {
-      "url": "http://youtu.be/ib2n2msvVZk",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=ib2n2msvVZk",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/ib2n2msvVZk",
+  "source_url": "https://www.youtube.com/watch?v=ib2n2msvVZk",
   "tags": [],
   "speakers": [
     "Matt Meshulam"

@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "managing-technical-debt-in-django-projects-by",
   "title": "Managing technical debt in (Django) Projects",
@@ -11,8 +12,8 @@
   "duration": 2508,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=6uzVKpjVaPc",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=6uzVKpjVaPc",
       "type": "youtube"
     }
   ],

@@ -12,17 +12,17 @@
   "duration": 1879,
   "videos": [
     {
+      "length": null,
       "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/depy-2015/3553_Learning_by_doing_Predicting_West_Nile_Virus_in_Ch.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/io5FEwNrwi0",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=io5FEwNrwi0",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/io5FEwNrwi0",
+  "source_url": "https://www.youtube.com/watch?v=io5FEwNrwi0",
   "tags": [],
   "speakers": [
     "Jonathan Gemmell"

@@ -12,12 +12,12 @@
   "duration": 639,
   "videos": [
     {
-      "url": "http://youtu.be/s-OPhgYELv4",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=s-OPhgYELv4",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/s-OPhgYELv4",
+  "source_url": "https://www.youtube.com/watch?v=s-OPhgYELv4",
   "tags": [],
   "speakers": [
     "Andrew Godwin"

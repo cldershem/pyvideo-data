@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "using-python-to-characterize-the-structure-of-wood",
   "title": "Using Python to characterize the structure of wood",
@@ -11,8 +12,8 @@
   "duration": 539,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=LZBai8ZewRI",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=LZBai8ZewRI",
       "type": "youtube"
     }
   ],

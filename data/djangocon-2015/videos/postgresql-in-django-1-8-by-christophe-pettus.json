@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "postgresql-in-django-1-8-by-christophe-pettus",
   "title": "PostgreSQL in Django 1.8",
@@ -11,8 +12,8 @@
   "duration": 2611,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=hiPWZai946k",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=hiPWZai946k",
       "type": "youtube"
     }
   ],

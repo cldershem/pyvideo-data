@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "the-evolution-of-a-restful-django-backend",
   "title": "The evolution of a RESTful Django backend",
@@ -11,8 +12,8 @@
   "duration": 1476,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=zlfSCdu0y6s",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=zlfSCdu0y6s",
       "type": "youtube"
     }
   ],

@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "matplotlib-up-and-running-christopher-roach",
   "title": "Matplotlib: up and running",
@@ -11,8 +12,8 @@
   "duration": 1744,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=V-OWkPCYa0s",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=V-OWkPCYa0s",
       "type": "youtube"
     }
   ],

@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "djangocon-intro-and-keynote-state-of-the-pony",
   "title": "DjangoCon Intro and Keynote: State of the Pony Report -- Russell Keith-Magee",
@@ -11,8 +12,8 @@
   "duration": 3211,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=drWhGUdadGw",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=drWhGUdadGw",
       "type": "youtube"
     }
   ],

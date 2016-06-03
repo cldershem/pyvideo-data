@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "lightning-talks",
   "title": "Lightning Talks",
@@ -11,8 +12,8 @@
   "duration": 1462,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=c27VZqTDWLw",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=c27VZqTDWLw",
       "type": "youtube"
     }
   ],

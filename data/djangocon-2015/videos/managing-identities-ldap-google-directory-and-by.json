@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "managing-identities-ldap-google-directory-and-by",
   "title": "Managing Identities: LDAP, Google Directory, and Django",
@@ -11,8 +12,8 @@
   "duration": 2610,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=PoPIFIdzxdk",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=PoPIFIdzxdk",
       "type": "youtube"
     }
   ],

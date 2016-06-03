@@ -12,12 +12,12 @@
   "duration": 1500,
   "videos": [
     {
-      "url": "http://youtu.be/GZl-13bbq60",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=GZl-13bbq60",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/GZl-13bbq60",
+  "source_url": "https://www.youtube.com/watch?v=GZl-13bbq60",
   "tags": [],
   "speakers": [
     "Randy Syring"

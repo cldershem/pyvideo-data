@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "i-never-meta-model-i-didnt-like-by-russell-keith",
   "title": "I never Meta model I didn't like: The Django 1.8 Meta Interface",
@@ -11,8 +12,8 @@
   "duration": 1607,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=VgM0qmpHDiE",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=VgM0qmpHDiE",
       "type": "youtube"
     }
   ],

@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "stateless-immutable-webapps-stealing-ideas-from",
   "title": "Stateless / Immutable Webapps - Stealing Ideas from Functional Patterns",
@@ -11,8 +12,8 @@
   "duration": 1653,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=NGhL7IA6Dik",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=NGhL7IA6Dik",
       "type": "youtube"
     }
   ],

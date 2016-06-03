@@ -12,17 +12,17 @@
   "duration": 1118,
   "videos": [
     {
+      "length": null,
       "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/depy-2015/3557_The_Use_of_Web_Games_to_Train_Data_Analysts.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/nwABte_7JWg",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=nwABte_7JWg",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/nwABte_7JWg",
+  "source_url": "https://www.youtube.com/watch?v=nwABte_7JWg",
   "tags": [],
   "speakers": [
     "Casey Schroeder"

@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "automating-your-browser-and-desktop-apps-by-al",
   "title": "Automating Your Browser and Desktop Apps",
@@ -11,8 +12,8 @@
   "duration": 1978,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=IJewV7o1bwU",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=IJewV7o1bwU",
       "type": "youtube"
     }
   ],

@@ -12,17 +12,17 @@
   "duration": 3000,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3178_Python_and_Spreadsheets_State_of_the_Union_Oct_201.webm",
-      "type": "webm",
-      "length": null
+      "type": "webm"
     },
     {
-      "url": "http://youtu.be/3K8QXqI-Ols",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=3K8QXqI-Ols",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/3K8QXqI-Ols",
+  "source_url": "https://www.youtube.com/watch?v=3K8QXqI-Ols",
   "tags": [],
   "speakers": [
     "Kojo Idrissa"

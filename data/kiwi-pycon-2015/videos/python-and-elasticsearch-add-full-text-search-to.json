@@ -12,12 +12,12 @@
   "duration": 1567,
   "videos": [
     {
-      "url": "http://youtu.be/FM2e2J7OJpM",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=FM2e2J7OJpM",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/FM2e2J7OJpM",
+  "source_url": "https://www.youtube.com/watch?v=FM2e2J7OJpM",
   "tags": [],
   "speakers": [
     "Benoit Chabord"

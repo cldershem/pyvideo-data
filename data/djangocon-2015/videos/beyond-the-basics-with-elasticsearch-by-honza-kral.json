@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "beyond-the-basics-with-elasticsearch-by-honza-kral",
   "title": "Beyond the basics with Elasticsearch",
@@ -11,8 +12,8 @@
   "duration": 2463,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=RAJiFK1bHO0",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=RAJiFK1bHO0",
       "type": "youtube"
     }
   ],

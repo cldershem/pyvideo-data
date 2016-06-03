@@ -12,12 +12,12 @@
   "duration": 904,
   "videos": [
     {
-      "url": "http://youtu.be/5k122tiMpFA",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=5k122tiMpFA",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/5k122tiMpFA",
+  "source_url": "https://www.youtube.com/watch?v=5k122tiMpFA",
   "tags": [],
   "speakers": [
     "Kenneth Love"

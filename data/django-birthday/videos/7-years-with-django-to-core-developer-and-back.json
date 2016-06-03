@@ -12,12 +12,12 @@
   "duration": 838,
   "videos": [
     {
-      "url": "http://youtu.be/3IGbdwU1aXQ",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=3IGbdwU1aXQ",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/3IGbdwU1aXQ",
+  "source_url": "https://www.youtube.com/watch?v=3IGbdwU1aXQ",
   "tags": [],
   "speakers": [
     "Alex Gaynor"

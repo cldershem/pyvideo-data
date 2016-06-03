@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "orchestrating-a-climate-modeling-data-pipeline-r",
   "title": "Orchestrating a climate modeling data pipeline",
@@ -11,8 +12,8 @@
   "duration": 573,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=_h4dfyNHKtc",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=_h4dfyNHKtc",
       "type": "youtube"
     }
   ],

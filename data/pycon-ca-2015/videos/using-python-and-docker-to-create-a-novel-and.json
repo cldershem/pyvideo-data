@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "using-python-and-docker-to-create-a-novel-and",
   "title": "Using Python and Docker to create a novel and scalable development environment solution",
@@ -11,8 +12,8 @@
   "duration": 1717,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=1f5inndAxEU",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=1f5inndAxEU",
       "type": "youtube"
     }
   ],

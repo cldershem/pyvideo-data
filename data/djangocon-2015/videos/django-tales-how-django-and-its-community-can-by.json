@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "django-tales-how-django-and-its-community-can-by",
   "title": "Django Tales: How Django and Its Community Can Change Lives",
@@ -11,8 +12,8 @@
   "duration": 2164,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=JQkM_fOlb2A",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=JQkM_fOlb2A",
       "type": "youtube"
     }
   ],

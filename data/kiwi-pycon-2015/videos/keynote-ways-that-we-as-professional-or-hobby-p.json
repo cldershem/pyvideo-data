@@ -12,12 +12,12 @@
   "duration": 2999,
   "videos": [
     {
-      "url": "http://youtu.be/Mcc6JEhDSpo",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=Mcc6JEhDSpo",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/Mcc6JEhDSpo",
+  "source_url": "https://www.youtube.com/watch?v=Mcc6JEhDSpo",
   "tags": [],
   "speakers": [
     "Allison Kaptur"

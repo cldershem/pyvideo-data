@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "postgres-performance-in-15-minutes-by-josh-berkus",
   "title": "Postgres Performance in 15 Minutes",
@@ -11,8 +12,8 @@
   "duration": 1630,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=dBeXS5aFLNc",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=dBeXS5aFLNc",
       "type": "youtube"
     }
   ],

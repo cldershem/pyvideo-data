@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "earthquakes-and-the-moon-hany-fahim",
   "title": "Earthquakes and the Moon",
@@ -11,8 +12,8 @@
   "duration": 1739,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=LabZxJcR7gw",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=LabZxJcR7gw",
       "type": "youtube"
     }
   ],

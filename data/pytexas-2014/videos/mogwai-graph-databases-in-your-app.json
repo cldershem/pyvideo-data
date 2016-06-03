@@ -12,17 +12,17 @@
   "duration": 3000,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3198_Mogwai_Graph_Databases_in_your_App.webm",
-      "type": "webm",
-      "length": null
+      "type": "webm"
     },
     {
-      "url": "http://youtu.be/BOqj6-UGBAc",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=BOqj6-UGBAc",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/BOqj6-UGBAc",
+  "source_url": "https://www.youtube.com/watch?v=BOqj6-UGBAc",
   "tags": [],
   "speakers": [
     "Cody Lee"

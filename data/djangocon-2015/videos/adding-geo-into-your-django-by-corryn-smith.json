@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "adding-geo-into-your-django-by-corryn-smith",
   "title": "Adding Geo into your Django",
@@ -11,8 +12,8 @@
   "duration": 1457,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=wlMg0CAs83M",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=wlMg0CAs83M",
       "type": "youtube"
     }
   ],

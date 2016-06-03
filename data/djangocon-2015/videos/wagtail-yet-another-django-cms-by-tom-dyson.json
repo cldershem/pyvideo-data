@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "wagtail-yet-another-django-cms-by-tom-dyson",
   "title": "Wagtail - Yet Another Django CMS",
@@ -11,8 +12,8 @@
   "duration": 1717,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=6j0NVq6g4FE",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=6j0NVq6g4FE",
       "type": "youtube"
     }
   ],

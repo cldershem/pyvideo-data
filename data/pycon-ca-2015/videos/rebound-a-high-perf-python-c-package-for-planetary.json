@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "rebound-a-high-perf-python-c-package-for-planetary",
   "title": "REBOUND, a high-perf Python/C package for simulating planetary & satellite orbits",
@@ -11,8 +12,8 @@
   "duration": 1860,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=O4AGnyvXrLw",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=O4AGnyvXrLw",
       "type": "youtube"
     }
   ],

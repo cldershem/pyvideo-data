@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "PyCon CA 2015",
   "slug": "building-a-quantitative-trading-strategy-to-beat-s",
   "title": "Building a Quantitative Trading Strategy To Beat the S&P500",
@@ -11,8 +12,8 @@
   "duration": 2303,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=plfMs5_kJwQ",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=plfMs5_kJwQ",
       "type": "youtube"
     }
   ],

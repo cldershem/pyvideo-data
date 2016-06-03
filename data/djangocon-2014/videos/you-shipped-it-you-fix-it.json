@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "you-shipped-it-you-fix-it",
   "title": "You shipped it, you fix it",
@@ -11,8 +12,8 @@
   "duration": 747,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=_p_Iq2AnLoA",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=_p_Iq2AnLoA",
       "type": "youtube"
     }
   ],

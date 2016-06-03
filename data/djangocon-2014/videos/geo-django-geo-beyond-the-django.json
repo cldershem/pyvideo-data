@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "geo-django-geo-beyond-the-django",
   "title": "Geo+Django: Geo beyond the Django",
@@ -11,8 +12,8 @@
   "duration": 1466,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=mUhinowr3RY",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=mUhinowr3RY",
       "type": "youtube"
     }
   ],

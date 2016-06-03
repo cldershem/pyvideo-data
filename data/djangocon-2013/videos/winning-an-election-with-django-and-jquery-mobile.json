@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "winning-an-election-with-django-and-jquery-mobile",
   "title": "Winning an Election with Django and jQuery Mobile",
@@ -11,8 +12,8 @@
   "duration": 3190,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=WJGHqwdA0hw",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=WJGHqwdA0hw",
       "type": "youtube"
     }
   ],

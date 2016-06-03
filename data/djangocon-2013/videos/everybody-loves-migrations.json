@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2013",
   "slug": "everybody-loves-migrations",
   "title": "Everybody Loves Migrations",
@@ -11,8 +12,8 @@
   "duration": 2610,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=JXGW56CGsCM",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=JXGW56CGsCM",
       "type": "youtube"
     }
   ],

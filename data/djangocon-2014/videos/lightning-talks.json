@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "DjangoCon 2014",
   "slug": "lightning-talks",
   "title": "Lightning Talks",
@@ -11,8 +12,8 @@
   "duration": 3601,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=NMwuzJP4Z_o",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=NMwuzJP4Z_o",
       "type": "youtube"
     }
   ],

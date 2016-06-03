@@ -12,17 +12,17 @@
   "duration": 3389,
   "videos": [
     {
+      "length": null,
       "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3756_Acceptance_Test_Driven_Development.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/xVdkqwW9qbs",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=xVdkqwW9qbs",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/xVdkqwW9qbs",
+  "source_url": "https://www.youtube.com/watch?v=xVdkqwW9qbs",
   "tags": [],
   "speakers": [
     "Jessica Ingrassellino"

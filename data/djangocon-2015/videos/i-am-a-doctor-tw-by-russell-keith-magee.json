@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "i-am-a-doctor-tw-by-russell-keith-magee",
   "title": "I am a doctor... (TW)",
@@ -11,8 +12,8 @@
   "duration": 1336,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=OC3v5uXR9Qc",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=OC3v5uXR9Qc",
       "type": "youtube"
     }
   ],

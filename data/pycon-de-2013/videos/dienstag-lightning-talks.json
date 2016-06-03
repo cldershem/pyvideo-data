@@ -12,17 +12,17 @@
   "duration": 90,
   "videos": [
     {
+      "length": null,
       "url": "http://cf9ce50bbcc7255cb659-8cbed8cf7e3a131cd8f1c3e383d10041.r93.stream.cf2.rackcdn.com/pycon-de-2013/2548_dienstag_lightning_talks.mp4",
-      "type": "mp4",
-      "length": null
+      "type": "mp4"
     },
     {
-      "url": "http://youtu.be/N29XAFjiKf4",
-      "type": "youtube",
-      "length": 0
+      "length": 0,
+      "url": "https://www.youtube.com/watch?v=N29XAFjiKf4",
+      "type": "youtube"
     }
   ],
-  "source_url": "http://youtu.be/N29XAFjiKf4",
+  "source_url": "https://www.youtube.com/watch?v=N29XAFjiKf4",
   "tags": [],
   "speakers": [],
   "recorded": "2013-10-15"

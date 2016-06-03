@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "django-deployments-done-right-by-peter-baumgartner",
   "title": "Django Deployments Done Right",
@@ -11,8 +12,8 @@
   "duration": 2450,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=SUczHTa7WmQ",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=SUczHTa7WmQ",
       "type": "youtube"
     }
   ],

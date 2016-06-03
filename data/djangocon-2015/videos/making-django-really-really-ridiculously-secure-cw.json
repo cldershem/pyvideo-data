@@ -1,4 +1,5 @@
 {
+  "id": 4067,
   "category": "",
   "slug": "making-django-really-really-ridiculously-secure-cw",
   "title": "Making Django Really, Really, Ridiculously Secure (CW)",
@@ -11,8 +12,8 @@
   "duration": 1538,
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=H2llNbMe-V4",
       "length": 0,
+      "url": "https://www.youtube.com/watch?v=H2llNbMe-V4",
       "type": "youtube"
     }
   ],
